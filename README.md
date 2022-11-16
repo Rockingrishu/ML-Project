@@ -1,4 +1,4 @@
-# ML-Prjoect
+# ML-Project
 Machine Learning Project  
 
 Given By - Dr. Pawan Kumar Mall  
